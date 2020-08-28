@@ -1,7 +1,4 @@
-## Project 4 - West Nile Virus Prediction
----
-   Leonard | Melvin | Pallavi
-    
+West Nile Virus Prediction 
 ---
 
 ### Introduction and problem statement
